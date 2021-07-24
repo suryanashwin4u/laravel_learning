@@ -1,0 +1,1 @@
+<h1>calling welcome.blade.php in view</h1>
